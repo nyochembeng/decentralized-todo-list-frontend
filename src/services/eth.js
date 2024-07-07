@@ -1,5 +1,5 @@
 import { ethers } from "ethers";
-import ToDoList from "../artifacts/contracts/ToDoList.sol/ToDoList.json";
+import ToDoList from '../../../build/contracts/ToDoList.json';
 
 const contractAddress = "your_contract_address";
 
